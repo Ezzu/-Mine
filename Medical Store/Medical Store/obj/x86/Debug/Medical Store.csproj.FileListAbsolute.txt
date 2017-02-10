@@ -1,0 +1,35 @@
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mine\Practical\Medical Store\Medical Store\bin\Debug\Data.mdf
+D:\Mine\Practical\Medical Store\Medical Store\bin\Debug\Data_log.ldf
+D:\Mine\Practical\Medical Store\Medical Store\bin\Debug\Medical Store.exe.config
+D:\Mine\Practical\Medical Store\Medical Store\bin\Debug\Medical Store.exe
+D:\Mine\Practical\Medical Store\Medical Store\bin\Debug\Medical Store.pdb
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmBuy.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmMain.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmManager.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmSales.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmStart.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmStore.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical Store.exe
+D:\Mine\Practical\Medical Store\Medical Store\obj\x86\Debug\Medical Store.pdb
+D:\Mine\MedicalStore\Under\Medical Store\Medical Store\bin\Debug\Medical Store.exe.config
+D:\Mine\MedicalStore\Under\Medical Store\Medical Store\obj\x86\Debug\Medical Store.exe
+D:\Mine\MedicalStore\Under\Medical Store\Medical Store\obj\x86\Debug\Medical Store.pdb
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\bin\Debug\Medical Store.exe.config
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical Store.exe
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical Store.pdb
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\bin\Debug\Data.mdf
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\bin\Debug\Data_log.ldf
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\bin\Debug\Medical Store.exe
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\bin\Debug\Medical Store.pdb
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmBuy.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmMain.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmManager.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmSales.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmStart.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.frmStore.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical_Store.Properties.Resources.resources
+D:\Mine\Mine\MedicalStore\Under\SQL\Medical Store\Medical Store\obj\x86\Debug\Medical Store.csproj.GenerateResource.Cache
